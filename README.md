@@ -1,2 +1,2 @@
 # Regression_analysis
-A project for a math course. Helps in understanding basic statistical principles of machine learning. Quite intuitive, so you can try it yourself
+The following .ipynb file has description and docstrings for every single function and the mathematical explanation is given.
